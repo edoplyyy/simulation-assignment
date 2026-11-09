@@ -1,4 +1,4 @@
-# Kurulum ve Çalışma Notları
+# Study Notes
 
 ### Problems in Journey and Their Solutions
 1. **Ubuntu Wifi Problem:**
