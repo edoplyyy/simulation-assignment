@@ -1,6 +1,6 @@
 # Ekip Simülasyon Ödevi
 
-### Öğrenci Bilgileri
+### Student's Informations
 - **Name:** Efe Çalışkan
 - **Major:** Electrical and Electronics Engineering
 
